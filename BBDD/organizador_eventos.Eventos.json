@@ -1,0 +1,82 @@
+[{
+  "_id": 1,
+  "nombre": "Los Dundies 2026: Gala en Chili's",
+  "id_organizador": 110,
+  "participantes": [
+    {
+      "_id": 1
+    },
+    {
+      "_id": 2
+    },
+    {
+      "_id": 3
+    }
+  ],
+  "id_tipo": 3,
+  "f_inicio": "2026-09-15",
+  "f_fin": "2026-09-15",
+  "online": false,
+  "lugar": "Chili's Grill & Bar, Scranton PA",
+  "descripcion": "Entrega de trofeos de plástico a los empleados. Categoría: Conferencia."
+},
+{
+  "_id": 2,
+  "nombre": "Taller de Reciclaje de Papel de Oficina",
+  "id_organizador": 120,
+  "participantes": [
+    {
+      "_id": 4
+    },
+    {
+      "_id": 2
+    },
+    {
+      "_id": 3
+    }
+  ],
+  "id_tipo": 2,
+  "f_inicio": "2026-10-20",
+  "f_fin": "2026-10-20",
+  "online": true,
+  "lugar": "Aula Virtual Dunder Mifflin",
+  "descripcion": "Taller práctico para reutilizar el papel sobrante de la sucursal. Categoría: Taller Sostenible."
+},
+{
+  "_id": 3,
+  "nombre": "Conferencia: Sostenibilidad en la Cadena de Suministro",
+  "id_organizador": 120,
+  "participantes": [
+    {
+      "_id": 1
+    },
+    {
+      "_id": 2
+    },
+    {
+      "_id": 3
+    }
+  ],
+  "id_tipo": 4,
+  "f_inicio": "2026-07-01",
+  "f_fin": "2026-07-03",
+  "online": false,
+  "lugar": "Sala de juntas, Scranton",
+  "descripcion": "Jan analiza cómo hacer que la distribución de papel sea eco-friendly. Categoría: Conferencia Sostenible."
+},
+{
+  "_id": 4,
+  "nombre": "Taller de Liderazgo Dinámico",
+  "id_organizador": 110,
+  "participantes": [
+    {
+      "_id": 3
+    }
+  ],
+  "id_tipo": 1,
+  "f_inicio": "2026-11-12",
+  "f_fin": "2026-11-13",
+  "online": false,
+  "lugar": "Dunder Mifflin",
+  "descripcion": "Michael enseña sus técnicas de gestión 'Parkour'. Categoría: Taller."
+}]

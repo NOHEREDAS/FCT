@@ -1,0 +1,102 @@
+[{
+  "_id": 1,
+  "nombre": "Jim Halpert",
+  "email": "jhalpert@dundermifflin.com",
+  "contrasena": "pamsforever",
+  "rol": "participante",
+  "evento": [
+    {
+      "_id": 1
+    },
+    {
+      "_id": 3
+    }
+  ],
+  "tlf": null
+},
+{
+  "_id": 2,
+  "nombre": "Pam Beesly",
+  "email": "pbeesly@dundermifflin.com",
+  "contrasena": "art_rules",
+  "rol": "participante",
+  "evento": [
+    {
+      "_id": 1
+    },
+    {
+      "_id": 2
+    },
+    {
+      "_id": 3
+    }
+  ],
+  "tlf": null
+},
+{
+  "_id": 3,
+  "nombre": "Dwight Schrute",
+  "email": "beets_bears@schrutefarms.com",
+  "contrasena": "battlestar_galactica",
+  "rol": "participante",
+  "evento": [
+    {
+      "_id": 1
+    },
+    {
+      "_id": 2
+    },
+    {
+      "_id": 3
+    },
+    {
+      "_id": 4
+    }
+  ],
+  "tlf": null
+},
+{
+  "_id": 4,
+  "nombre": "Kevin Malone",
+  "email": "kmalone@chili.com",
+  "contrasena": "6969",
+  "rol": "participante",
+  "evento": [
+    {
+      "_id": 2
+    }
+  ],
+  "tlf": null
+},
+{
+  "_id": 110,
+  "nombre": "Michael Scott",
+  "email": "mscott@dundermifflin.com",
+  "contrasena": "thats_what_she_said",
+  "rol": "organizador",
+  "evento": [
+    {
+      "_id": 1
+    },
+    {
+      "_id": 4
+    }
+  ],
+  "tlf": "682145937"
+},
+{
+  "_id": 120,
+  "nombre": "Jan Levinson",
+  "email": "jan.candles@serenity.com",
+  "contrasena": "hunter_song",
+  "rol": "organizador",
+  "evento": [
+    {
+      "_id": 2
+    },
+    {
+      "_id": 3
+    }
+  ],
+  "tlf": "610229384"
+}]
